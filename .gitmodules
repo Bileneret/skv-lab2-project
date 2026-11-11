@@ -1,0 +1,3 @@
+[submodule "libs/skv-lab2-base"]
+	path = libs/skv-lab2-base
+	url = https://github.com/Bileneret/skv-lab2-base.git
