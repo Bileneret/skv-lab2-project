@@ -1,0 +1,13 @@
+{
+  "name": "lab2-project",
+  "version": "1.0.0",
+  "description": "Головний проєкт ЛАБ2: підмодуль + ESLint pre-commit",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0"
+  }
+}
